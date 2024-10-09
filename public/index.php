@@ -61,7 +61,7 @@
         </div><!-- .site-container__inner -->
         <footer class="site-footer">
             <div class="site-footer__inner">
-                <p class="site-footer__copyright">&copy;2009-2024 J. Michael Ward</p>
+                <p class="site-footer__copyright">&copy;2009-<?php echo date('Y'); ?> J. Michael Ward</p>
             </div>
         </footer>
     </div><!-- .site-container-->
