@@ -23,12 +23,35 @@
             <main class="site-main">
                 <article class="post">
                     <header class="entry__hdr">
-                        <h1 class="entry__hd">Moving Forward</h1>
+                        <h1 class="entry__hd">Moving Forward!</h1>
                         <div class="entry__meta">October 9, 2024</div>
                     </header>
                     <div class="entry__content-container">
                         <div class="entry__content">
+                            <p>
+                                <a href="https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine">It's time to move away from WordPress.</a>
+                            </p>
 
+                            <p>This blog and much of my web development career has been "proudly powered by WordPress" for
+                            the last decade and then some, but last spring I completed my final integration project on
+                            the platform. I've been happily building code-based solutions in other platforms and frameworks
+                            since. In the interim, I had been keeping up with the latest updates to this site, but hadn't actively
+                            pursued rebuilding it using something else because, frankly, I just haven't felt up to it.</p>
+
+                            <p>The recent legal battles between WP Engine and Automattic, and in particular, what I feel are antagonistic
+                                communications and actions which threaten the safety and stability of the WordPress community, give me the
+                                impetus I need to finally port my data and build a new home for myself.</p>
+
+                            <p>For now, it means this static placeholder site written in good-old HTML and CSS, but longer-term, it means
+                                tinkering with something new – perhaps building upon my growing knowledge around Laravel, adopting a smaller but
+                                similarly-storied CMS like Drupal, or perhaps even exploring a completely different language altogether.
+                                I don't know what the next iteration of my personal site will bring, but I'm looking forward to trying
+                                something new and moving away from the chaos and drama. It's literally all I want for 2025, in every aspect
+                                of my life.
+                            </p>
+
+                            <p>Here's to new adventures with code. I hope to be back soon writing about all the fun and interesting challenges
+                                I've been facing in my last year and a half with Laravel.</p>
                         </div>
                     </div>
                 </article>
